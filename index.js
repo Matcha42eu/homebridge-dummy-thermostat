@@ -4,15 +4,15 @@ module.exports = function (homebridge) {
     Service = homebridge.hap.Service;
     Characteristic = homebridge.hap.Characteristic;
     HomnebridgeAPI = homebridge;
-    homebridge.registerAccessory("homebridge-dummy-thermostat", "Thermostat", Thermostat);
+    homebridge.registerAccessory("homebridge-matcha-thermostat", "Matcha-Thermostat", Thermostat);
 };
 
 function Thermostat(log, config) {
     this.log = log;
 
     this.name = config.name;
-    this.manufacturer = config.manufacturer || "DefaultManufacturer";
-    this.model = config.model || "DefaultModel";
+    this.manufacturer = config.manufacturer || "Matcha Dummy";
+    this.model = config.model || "Matcha Dummy Thermostat";
 
     this.temperatureDisplayUnits = config.temperatureDisplayUnits || 0;
 
