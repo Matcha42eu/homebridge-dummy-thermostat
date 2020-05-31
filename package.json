@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-dummy-thermostat",
-  "version": "0.0.3",
+  "name": "homebridge-matcha-thermostat",
+  "version": "0.0.1",
   "description": "Plugin for homebridge to create a fake thermostat accessory",
   "main": "index.js",
   "keywords": [
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/x1zor/homebridge-dummy-thermostat.git"
+    "url": "git+https://github.com/Matcha42eu/homebridge-matcha-thermostat.git"
   },
   "engines": {
     "homebridge": ">=0.2.0",
@@ -20,7 +20,7 @@
     "node-persist": "^2.1.0"
   },
   "bugs": {
-    "url": "https://github.com/x1zor/homebridge-dummy-thermostat/issues"
+    "url": "https://github.com/Matcha42eu/homebridge-matcha-thermostat/issues"
   },
-  "homepage": "https://github.com/x1zor/homebridge-dummy-thermostat#readme"
+  "homepage": "https://github.com/Matcha42eu/homebridge-matcha-thermostat#readme"
 }
