@@ -1,5 +1,5 @@
 # homebridge-dummy-thermostat
-_For testing purpose ONLY. You should NOT install this. _
+*For testing purpose ONLY. You should NOT install this.
 
 Plugin for homebridge to create a fake thermostat accessory
 
