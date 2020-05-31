@@ -1,5 +1,8 @@
 # homebridge-dummy-thermostat
+_For testing purpose ONLY. You should NOT install this. _
+
 Plugin for homebridge to create a fake thermostat accessory
+
 ## Installation
 
 1. Install [homebridge](https://github.com/nfarina/homebridge#installation-details)
