@@ -1,5 +1,5 @@
 {
-    "pluginAlias": "Thermostat",
+    "pluginAlias": "Matcha-Thermostat",
     "pluginType": "accessory",
     "singular": false,
     "schema": {
