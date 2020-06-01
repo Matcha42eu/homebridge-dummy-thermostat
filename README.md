@@ -1,5 +1,5 @@
 # homebridge-matcha-thermostat
-*For testing purpose ONLY. You should NOT install this.
+*For testing purpose ONLY. You should NOT install this.*
 
 Plugin for homebridge to create a fake thermostat accessory
 
